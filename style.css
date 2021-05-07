@@ -1,0 +1,86 @@
+body{
+background-color:aliceblue;
+text-align:center;}
+h1{
+font-size:40px;
+ color:black;
+  font-style:Italic;
+  text-decoration:underline;
+ }
+p{
+  font-size:20px;
+  color:black;
+  font-style:Italic
+}
+h3{
+  font-size:40px;
+    color:black;
+  font-style:Italic;
+  text-decoration:underline;
+}
+h4{
+  font-size:40px;
+  color:black;
+    font-style:Italic;
+  text-decoration:underline;
+   
+}
+#Welcome{
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(#529e9a 0%,#8059ab 100%);
+    bottom: 0;
+    right: 0;
+    left: 0;
+    color:brown;
+    z-index: 99;
+}
+.line{
+    width: 100px;
+    height: 10px;
+    background-color: chartreuse;
+    margin: 10px auto;
+        
+}
+p{
+    max-width: 500px;
+    font-size: 20px;
+    line-height: 1.5;
+    color: chocolate;
+    margin: 25px auto;
+}
+.menu{
+    top: 0px;
+    position:fixed;
+    font-family: 'Red Rose', cursive;
+    z-index: 100;
+    cursor:pointer;
+    color:white;
+    font-size: 20px;
+    width: 100%;
+    margin-top: 0px;
+}
+.links{
+    display: inline;
+     margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px
+        
+}
+#app{
+    width:100%;
+        background-color:blue;
+    
+}
+#game img{
+    transition: transform 0.2s
+}
+#contact1 h2{
+    display: inline;
+    
+}
+#con iframe{
+    width:100%;
+    
+}
